@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- - 🔭 I’m currently working on ... -->
+- 🔭 I’m currently dimission and waiting for a job offer.
 - 🌱 I’m currently learning Kubernetes / Golang / Shell / Containers / Cloud Native / DevOps
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...  -->
