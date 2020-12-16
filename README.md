@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- I’m currently dimission and waiting for a job offer.
 - I’m currently learning Kubernetes / Golang / Shell / Containers / Cloud Native / DevOps
 - Ask me about CKA
 - Fun fact: Hiking
